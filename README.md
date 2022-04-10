@@ -1,0 +1,2 @@
+# Lottery
+napisz program, który pobiera od użytkownika 6 liczb z puli 49. Program ma wziąć pod  uwagę zestaw unikalnych sześciu liczb.  Następnie program dokonuje losowań do czasu gdy wylosuje wybrane przez użytkownika zestawienie liczb. Program podaje po ilu latach i ilu dniach użytkownik wylosowałby liczby (np. potrzeba x lat i x dni). Zakładamy że losowania odbywają się codziennie (jedno losowanie na jeden dzień).
