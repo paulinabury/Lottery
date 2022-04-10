@@ -24,9 +24,5 @@ public class LotteryTest {
         assertTrue(min_);
         assertTrue(max_);
     }
-
-    @Test
-    public void t() {
-
-    }
+    
 }
